@@ -1,2 +1,3 @@
 # GITWorkshop
-Workshop dla Akademii Envelo
+Workshop dla Akademii Envelo część 2
+prowadzony przez Kamila Wojkowskiego
